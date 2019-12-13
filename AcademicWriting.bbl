@@ -17,6 +17,28 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{PeopleCanRead}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DS}{%
+         family={Dreyer},
+         familyi={D\bibinitperiod},
+         given={SDerek},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DS1}
+    \strng{fullhash}{DS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{How to Write Papers So People Can Read Them}
+    \verb{url}
+    \verb https://popl16.sigplan.org/details/PLMW-2016-home/9/How-to-Write-Pape
+    \verb rs-So-People-Can-Read-Them
+    \endverb
+  \endentry
+
   \entry{AGreatResearchPaper}{misc}{}
     \name{author}{1}{}{%
       {{hash=JSP}{%
